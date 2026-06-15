@@ -5,8 +5,9 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=6C63FF&center=true&vCenter=true&width=435&lines=Frontend+Developer;React+%7C+JavaScript+%7C+CSS;Always+Learning+New+Things+🚀" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=6C63FF&center=true&vCenter=true&width=500&lines=Frontend+Developer;React+%7C+JavaScript+%7C+CSS;Always+Learning+New+Things+🚀" alt="Typing SVG" />
 </p>
+
 
 ---
 
