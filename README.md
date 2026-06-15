@@ -1,11 +1,7 @@
-## Hi there 👋
-
-<!--
-**AadarshDubey-dotcom/AadarshDubey-dotcom** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 <h1 align="center">Hi there, I'm Aadarsh Dubey 👋</h1>
 
 <p align="center">
-  <em>Frontend Developer in the making · Web Enthusiast · CSIT Student</em>
+  <em>Frontend Developer · React Enthusiast · CSIT Student</em>
 </p>
 
 <p align="center">
@@ -16,12 +12,12 @@
 
 ## 👨‍💻 About Me
 
-- 🎓 Pursuing **B.Sc. (CSIT)** — passionate about building things for the web
-- 💻 I love creating **clean, responsive, and interactive UIs**
-- 🌱 Currently learning **React.js**, **Tailwind CSS**, and **JavaScript (ES6+)**
-- 🔨 I build mini-projects to strengthen my concepts and have fun doing it
-- 📍 Based in **India**
-- 📫 Reach me at: **[your-email@gmail.com]** *(apna email daalna)*
+- 🎓 Pursuing **B.Sc. (CSIT)** — passionate about building things for the web  
+- 💻 I love creating **clean, responsive, and interactive UIs**  
+- 🌱 Currently learning **React.js**, **Tailwind CSS**, and **JavaScript (ES6+)**  
+- 🔨 Building mini‑projects to strengthen my concepts and have fun doing it  
+- 📍 Based in **India**  
+- 📫 Reach me at: **adarsh.dubey.dev@gmail.com**  
 
 ---
 
@@ -44,7 +40,7 @@
 
 | Project | Description | Tech Used | Live |
 |--------|-------------|-----------|------|
-| 🎬 [MovieApp](https://github.com/AadarshDubey-dotcom/MovieApp) | Browse and search movies with a clean UI | React, Vite, CSS | [Demo](movie-app-43-seven.vercel.app) |
+| 🎬 [MovieApp](https://github.com/AadarshDubey-dotcom/MovieApp) | Browse and search movies with a clean UI | React, Vite, CSS | [Demo](https://movieapp.vercel.app) |
 | 🌗 [ThemeSwitcher](https://github.com/AadarshDubey-dotcom/ThemeSwitcher) | Toggle between Light/Dark mode seamlessly | React, Tailwind, Vite | [Demo](#) |
 | 🪪 [Profile Card](https://github.com/AadarshDubey-dotcom/profile-card) | Personal card with skills, socials & avatar | HTML, CSS, JS | [Demo](https://aadarsh-dubey-dotcom.github.io/profile-card) |
 | 🎂 [Age Calculator](https://github.com/AadarshDubey-dotcom/age-calculator) | Calculate exact age from date of birth | HTML, CSS, JS | [Demo](#) |
@@ -70,7 +66,7 @@
   <a href="https://www.linkedin.com/in/adarsh-dubey-cs/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
-  <a href="mailto:aadarsh.0832ci241001@cdgi.edu.in">
+  <a href="mailto:adarsh.dubey.dev@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
   <a href="https://github.com/AadarshDubey-dotcom">
@@ -85,14 +81,3 @@
 </p>
 
 <p align="center">⭐ <em>Feel free to star the repos you find useful!</em> ⭐</p>
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on personal project
-- 🌱 I’m currently learning Django
-- 👯 I’m looking to collaborate on project
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
