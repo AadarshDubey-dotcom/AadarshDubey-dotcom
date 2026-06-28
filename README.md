@@ -13,7 +13,7 @@
 
 ## 👨‍💻 About Me
 
-- 🎓 Pursuing **B.Sc. (CSIT)** — passionate about building things for the web  
+- 🎓 Pursuing **B-tech. (CSIT)** — passionate about building things for the web  
 - 💻 I love creating **clean, responsive, and interactive UIs**  
 - 🌱 Currently learning **React.js**, **Tailwind CSS**, and **JavaScript (ES6+)**  
 - 🔨 Building mini‑projects to strengthen my concepts and have fun doing it  
